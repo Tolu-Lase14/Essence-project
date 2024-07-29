@@ -1,0 +1,227 @@
+.row .col-lg-5{
+font-size:60px;
+padding-top: 100px ;
+padding-right: 30px;
+font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+
+}
+
+
+
+.btn{
+
+font-family: 'Courier New', Courier, monospace;
+
+}
+
+
+.row .category{
+
+        opacity: 0.4;    
+        filter: alpha(opacity=40); /* msie */   
+         
+            
+        }
+
+        /* Centered text */
+.category-text1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #3f00ec;
+  }
+
+.category-text2 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #3f00ec;
+  }
+
+.category-text3 {
+    position: absolute;
+    top: 50%;
+    left:  50%;
+    transform: translate(-50%, -50%);
+    color: #3f00ec;
+  }
+
+
+
+
+.category-text1:hover{
+color: crimson;}
+
+.category-text2:hover{
+  color: crimson;}
+
+.category-text3:hover{
+    color: crimson;}
+
+  
+
+.category{
+position: relative;
+
+
+  }
+
+.anything{
+display: flex;
+
+  }
+
+.flex-1{
+
+flex:2 ;
+
+  }
+  
+.flex-2{
+padding-top: 200px;
+flex:1 ;
+
+  }
+
+.flex-2 h1 span{
+    color: red;
+
+
+
+  }
+
+.wrap img{
+width: 300px;
+height: 400px;
+position:relative;
+display: block;
+}
+
+.wrap {
+  position:absolute;
+
+}
+
+.wrap h2{
+display:relative;
+background-color: #3f00ec;
+padding:10px 20px ;
+top: -100px;
+}
+
+.dress{
+justify-content: space-around;
+  display: flex;
+
+  position: relative;
+}
+
+.product-5 img{
+  width: 300px;
+  display: block;
+  height: 400px;
+  }
+
+.displaced img{
+    width: 300px;
+    height: 400px;
+    display: block;
+    }
+
+.product-4 img{
+      width: 300px;
+      height: 400px;
+      display: block;
+      }
+
+
+.footer{
+background-color: rgb(46, 46, 46);
+
+
+}
+
+.color a  {
+text-decoration: none ;
+
+}
+.color a h3{
+  color: white !important;
+}
+
+.color{
+display:block ;
+
+}
+
+.name{
+display: flex;
+justify-content: space-between;
+
+}
+
+.name2 {
+display:flex;
+gap: 13px;
+color: rgb(189, 189, 189);
+}
+
+.name2 h5:hover{
+color: white;
+cursor: pointer;
+}
+
+.light strong{
+color: white !important;
+
+}
+
+.light:hover{
+cursor: pointer;
+
+
+
+}
+
+.subscribe  h5{
+color: white !important;
+
+
+}
+
+.subscribe input span{
+display: inline-block;
+position: relative;
+
+
+}
+
+.subscribe input{
+  background: none;
+  border: none;
+  border-bottom: 1px solid #ccc;
+  color: #ccc;
+  padding: 10px;
+  padding-right: 40px;
+  font-size: 16px;
+  outline: none;
+  width: 300px;
+}
+
+.subscribe input::placeholder {
+  color: #777;
+}
+
+.col-md-3 {
+color: white !important;
+display: flex;
+justify-content: space-between;
+gap: 20px;
+padding-left: 30px;
+}
+
+
